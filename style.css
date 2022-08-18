@@ -36,7 +36,7 @@ body {
 html{
     box-sizing: border-box;
 }
-.aboutus{
+#aboutus{
     padding: 50px;
     background-color: #AFB4FF;
     color: black;
@@ -76,7 +76,7 @@ html{
   }
   
   .title {
-    color: grey;
+    color: #4B5D67;
   }
   
   .button {
@@ -89,7 +89,7 @@ html{
     background-color: #898AA6   ;
     text-align: center;
     cursor: pointer;
-    width: 5%;
+    width: 100px;
     margin-bottom: 5px;
     margin-left: 15px;
   }
